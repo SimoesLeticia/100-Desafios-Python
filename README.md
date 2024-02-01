@@ -1,4 +1,4 @@
-# 100 Desafios em Python
+# 100 Desafios em Python (Em andamento) <img width="32" height="32" src="https://img.icons8.com/color/32/python--v1.png" alt="python--v1"/>
 
 ## Visão Geral
 
