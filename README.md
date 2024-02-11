@@ -38,4 +38,4 @@ Cada exercício segue uma estrutura consistente:
 
 Contribuições são bem-vindas! Se você tiver novos desafios para adicionar ou melhorias para sugerir, sinta-se à vontade para criar uma issue ou enviar um pull request.
 
-Divirta-se resolvendo os desafios!
+**Divirta-se resolvendo os desafios!** 🚀👩🏽‍💻
