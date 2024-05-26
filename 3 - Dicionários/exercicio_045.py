@@ -10,8 +10,8 @@ Resultado esperado:
 Considerando esta entrada:
 produto_info = {
     "descrição": "sapato",
-	"preço": 37.99,
-	"cores": ["amarelo", "azul", "vermelho"],
+    "preço": 37.99,
+    "cores": ["amarelo", "azul", "vermelho"],
 }
 
 A saída deve ser:
@@ -21,8 +21,8 @@ A saída deve ser:
 # Entrada - Exemplo
 produto_info = {
     "descrição": "sapato",
-	"preço": 37.99,
-	"cores": ["amarelo", "azul", "vermelho"],
+    "preço": 37.99,
+    "cores": ["amarelo", "azul", "vermelho"],
 }
 
 lista_de_listas = []
