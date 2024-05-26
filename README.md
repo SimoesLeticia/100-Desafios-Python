@@ -1,4 +1,4 @@
-# 100 Desafios em Python
+# 100 Desafios em Python (Em andamento) <img width="32" height="32" src="https://img.icons8.com/color/32/python--v1.png" alt="python--v1"/>
 
 ## Visão Geral
 
@@ -38,4 +38,4 @@ Cada exercício segue uma estrutura consistente:
 
 Contribuições são bem-vindas! Se você tiver novos desafios para adicionar ou melhorias para sugerir, sinta-se à vontade para criar uma issue ou enviar um pull request.
 
-Divirta-se resolvendo os desafios!
+**Divirta-se resolvendo os desafios!** 🚀👩🏽‍💻
