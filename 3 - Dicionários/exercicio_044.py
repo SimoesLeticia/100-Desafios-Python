@@ -33,7 +33,7 @@ dicionario = {
 
 # Opção 1
 for lista in dicionario.values():
-	lista.sort()
+    lista.sort()
 
 print(f"Saída: {dicionario}")	
 
