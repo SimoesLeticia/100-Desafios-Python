@@ -25,7 +25,6 @@ produto_info = {
 	"cores": ["amarelo", "azul", "vermelho"],
 }
 
-# Opção 1
 lista_de_listas = []
 
 for chave, valor in produto_info.items():
