@@ -6,7 +6,7 @@ Descrição:
 - O dicionário deve incluir apenas os caracteres da string. 
 - O teste não deve diferenciar maiúsculas de minúsculas ("A" deve ser contado como "a").
 - As chaves do dicionário devem ser letras minúsculas.
-- Incluir apenas letras no dicionário.
+- Inclua apenas letras no dicionário.
 
 Resultado esperado:
 Entrada       | Saída
@@ -22,11 +22,11 @@ entrada = "#0l@, Mund0!"
 dicionario_frequencia = {}
 
 for char in entrada.lower():
-	if char.isalpha():
-		if char in dicionario_frequencia:
-			dicionario_frequencia[char] += 1
-		else:
-			dicionario_frequencia[char] = 1
+    if char.isalpha():
+        if char in dicionario_frequencia:
+            dicionario_frequencia[char] += 1
+        else:
+            dicionario_frequencia[char] = 1
 
 print(f"Saída: {dicionario_frequencia}")
 
@@ -38,9 +38,9 @@ dicionario_frequencia = {}
 entrada_convertida = ''.join(filter(str.isalpha, entrada.lower()))
 
 for char in entrada_convertida:
-	if char in dicionario_frequencia:
-		dicionario_frequencia[char] += 1
-	else:
-		dicionario_frequencia[char] = 1
-		
+    if char in dicionario_frequencia:
+        dicionario_frequencia[char] += 1
+    else:
+        dicionario_frequencia[char] = 1
+        
 print(f"Saída: {dicionario_frequencia}")
