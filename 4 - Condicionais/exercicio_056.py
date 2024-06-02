@@ -33,7 +33,7 @@ Selecione uma operação. Estas são as opções disponíveis:
 Insira o número da operação desejada: 6
 
 Saída
-O resultado de 16% 3 é 1
+O resultado de 16 % 3 é 1
 """
 
 print("=== Bem-vindo à sua calculadora Python interativa ===")
